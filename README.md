@@ -1,4 +1,4 @@
-# Projeto-Conclus-o-de-Curso-Senac
+# Projeto Conclusão de Curso Senac.
 Este é um projeto de página da web em HTML e CSS que foi desenvolvido como parte do meu aprendizado de desenvolvimento web. 
 O tema escolhido para este projeto foi o popular jogo para dispositivos móveis Brawl Stars.
 
@@ -16,6 +16,9 @@ Veja o site que foi desenvolvido por Joao Felipe [clicando aqui](https://primary
 # Tecnologias utilizadas
 Este projeto foi desenvolvido usando as seguintes tecnologias:
 
-- L5: para estruturar a página da web.
-- S3: para estilizar a página e torná-la visualmente atraente.
--isual Studio Code: como editor de código.
+- HTML5: para estruturar a página da web.
+- CSS3: para estilizar a página e torná-la visualmente atraente.
+- Visual Studio Code: como editor de código.
+
+# Autor
+Este projeto foi criado por João Felipe, como parte do curso de Técnico em Informatica.
