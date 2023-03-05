@@ -1,1 +1,21 @@
 # Projeto-Conclus-o-de-Curso-Senac
+Este é um projeto de página da web em HTML e CSS que foi desenvolvido como parte do meu aprendizado de desenvolvimento web. 
+O tema escolhido para este projeto foi o popular jogo para dispositivos móveis Brawl Stars.
+
+# Conteúdo
+O projeto consiste em uma única página da web, que inclui as seguintes seções:
+
+- Cabeçalho: com um logotipo personalizado do Brawl Stars e um menu de navegação que leva o usuário para diferentes seções da página.
+- Seção principal: que inclui uma introdução ao jogo Brawl Stars e uma imagem de um dos personagens do jogo.
+- Seção personagens: Esta seção destaca nove dos personagens mais populares do jogo Brawl Stars. Cada personagem é apresentado com uma imagem.
+- Rodapé: com informações adicionais sobre o jogo, links para as redes sociais do Brawl Stars e créditos para as imagens usadas no projeto.
+
+# Como visualizar o projeto
+Veja o site que foi desenvolvido por Joao Felipe [clicando aqui](https://primary-project-joao.netlify.app/).
+
+# Tecnologias utilizadas
+Este projeto foi desenvolvido usando as seguintes tecnologias:
+
+- L5: para estruturar a página da web.
+- S3: para estilizar a página e torná-la visualmente atraente.
+-isual Studio Code: como editor de código.
