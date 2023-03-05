@@ -1,0 +1,41 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400;1,500;1,600&display=swap');
+/* font-family: 'Open Sans', sans-serif; */
+body {
+    background-image: url(../../img/Fundo_colt.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.colt {
+    display: flex;
+    flex: 1 1 1;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+
+.divimg {
+    width: 400px;
+    height: 500px;
+}
+
+.divtext {
+    width: 400px;
+    height: 500px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+}
+
+.img-colt {
+    width: 80%;
+    height: 100%;
+}
+
+.divtext p {
+    color: rgb(0, 0, 0);
+    font-weight: 900;
+}
