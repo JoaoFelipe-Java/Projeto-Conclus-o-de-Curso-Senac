@@ -11,7 +11,8 @@ O projeto consiste em uma única página da web, que inclui as seguintes seçõe
 - Rodapé: com informações adicionais sobre o jogo, links para as redes sociais do Brawl Stars e créditos para as imagens usadas no projeto.
 
 # Como visualizar o projeto
-Veja o site que foi desenvolvido por Joao Felipe [clicando aqui](https://projeto-brawl-stars.netlify.app/).
+Veja o site que foi desenvolvido por Joao Felipe <a href="https://projeto-brawl-stars.netlify.app/" target="_blank">Clicando aqui</a>.
+
 
 # Tecnologias utilizadas
 Este projeto foi desenvolvido usando as seguintes tecnologias:
